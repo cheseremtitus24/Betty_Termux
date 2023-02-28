@@ -27,3 +27,6 @@ betty-style file1 [file2 [file3 [...]]]
 ```ShellSession
 betty-doc file1 [file2 [file3 [...]]]
 ```
+=======
+# Betty_Termux
+Betty Coding Style for Termux install
